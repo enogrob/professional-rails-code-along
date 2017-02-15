@@ -23,8 +23,8 @@ Planning the Application We're Going to Build
 
 Section: 2
 Initial Application Build
-[ ] 4. Creating the App 3:34
-[ ] 5. Pushing the Application to a Remote GitHub Repository 2:44
+[x] 4. Creating the App 3:34
+[x] 5. Pushing the Application to a Remote GitHub Repository 2:44
 [ ] 6. Installing RSpec and Capybara Testing Frameworks 6:08
 [ ] 7. Using BDD to Build a Homepage 8:09
 
